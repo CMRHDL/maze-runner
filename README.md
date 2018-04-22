@@ -1,0 +1,1 @@
+Visualization for a maze escape based on/inspired by [Escape the maze](https://www.codewars.com/kata/escape-the-maze/train/javascript).
